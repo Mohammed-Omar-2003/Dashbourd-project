@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dashbourd-project/static/css/main.775884bf.css",
+    "main.js": "/Dashbourd-project/static/js/main.640930ea.js",
+    "index.html": "/Dashbourd-project/index.html",
+    "main.775884bf.css.map": "/Dashbourd-project/static/css/main.775884bf.css.map",
+    "main.640930ea.js.map": "/Dashbourd-project/static/js/main.640930ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.775884bf.css",
+    "static/js/main.640930ea.js"
+  ]
+}
